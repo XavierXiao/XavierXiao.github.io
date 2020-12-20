@@ -16,7 +16,7 @@ author_profile: true
 *Preprint*, 2020 <br>
 
 [**Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder**](https://arxiv.org/abs/2003.02977) <br>
-**Zhisheng Xiao**, Yan Qing, and Yali Amit <br>
+**Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2020 <br>
 
 [**ControlVAE: Tuning, Analytical Properties, and Performance Analysis**](https://arxiv.org/abs/2011.01754) <br>
@@ -24,15 +24,15 @@ Huajie Shao, **Zhisheng Xiao**, Shuochao Yao, Aston Zhang, Shengzhong Liu, and T
 *Preprint*, 2020 <br>
 
 [**Improving Sample Quality by Training and Sampling from Latent Energy**](https://invertibleworkshop.github.io/accepted_papers/pdfs/4.pdf) <br>
-**Zhisheng Xiao**, Yan Qing, and Yali Amit <br>
+**Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models*, 2020 <br>
 
 [**Generative Latent Flow**](https://arxiv.org/abs/1905.10485) <br>
-**Zhisheng Xiao**, Yan Qing, and Yali Amit <br>
+**Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *Preprint*, 2019 <br>
 
 [**A Method to Model Conditional Distributions with Normalizing Flows**](https://arxiv.org/abs/1911.02052) <br>
-**Zhisheng Xiao**, Yan Qing, and Yali Amit <br>
+**Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *Preprint*, 2019 <br>
 
 [**Understanding Limitation of Two Symmetrized Orders by Worst-case Complexity**](https://arxiv.org/abs/1910.04366) <br>
