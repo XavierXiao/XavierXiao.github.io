@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhisheng Xiao, a 4th-year Ph.D. student in [Computational and Applied Mathematics] (https://cam.uchicago.edu/) at University of Chicago. <br>
+I am Zhisheng Xiao, a 4th-year Ph.D. student in [Computational and Applied Mathematics](https://cam.uchicago.edu) at University of Chicago. <br>
 
 I received my bachelor's degrees in Applied Mathematics and Statistics from UC Berkeley. <br>
 
