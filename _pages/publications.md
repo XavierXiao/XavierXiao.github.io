@@ -23,6 +23,10 @@ author_profile: true
 **Zhisheng Xiao**, Yan Qing, and Yali Amit <br>
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2020 <br>
 
+[**ControlVAE: Tuning, Analytical Properties, and Performance Analysis**](https://arxiv.org/abs/2011.01754) <br>
+Huajie Shao, **Zhisheng Xiao**, Shuochao Yao, Aston Zhang, Shengzhong Liu, and Tarek Abdelzaher<br>
+*Preprint*, 2020 <br>
+
 [**Improving Sample Quality by Training and Sampling from Latent Energy**](https://invertibleworkshop.github.io/accepted_papers/pdfs/4.pdf) <br>
 **Zhisheng Xiao**, Yan Qing, and Yali Amit <br>
 *ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models*, 2020 <br>
