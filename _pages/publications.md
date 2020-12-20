@@ -13,7 +13,7 @@ author_profile: true
 
 [**VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models**](https://arxiv.org/abs/2010.00654) <br>
 **Zhisheng Xiao**, Karsten Kreis, Jan Kautz, and Arash Vahdat<br>
-*Preprint*, 2020 <br>
+*Preprint, in submission to International Conference on Learning Representations*, 2020 <br>
 
 [**Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder**](https://arxiv.org/abs/2003.02977) <br>
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
@@ -37,7 +37,7 @@ Huajie Shao, **Zhisheng Xiao**, Shuochao Yao, Aston Zhang, Shengzhong Liu, and T
 
 [**Understanding Limitation of Two Symmetrized Orders by Worst-case Complexity**](https://arxiv.org/abs/1910.04366) <br>
 Peijun Xiao, **Zhisheng Xiao**, and Ruoyu Sun <br>
-*Preprint*, 2019 <br>
+*Preprint, in submission to SIAM Optimization*, 2019 <br>
 
 
 
