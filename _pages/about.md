@@ -10,6 +10,6 @@ redirect_from:
 
 I am Zhisheng Xiao, a 4th-year Ph.D. student in [Computational and Applied Mathematics](https://cam.uchicago.edu) at University of Chicago. <br>
 
-I received my bachelor's degrees in Applied Mathematics and Statistics from UC Berkeley. <br>
+I obtained my bachelor's degrees in Applied Mathematics and Statistics from UC Berkeley in 2017. <br>
 
 I do research on deep probablistic generative models and optimization. <br>
