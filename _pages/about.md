@@ -14,4 +14,4 @@ I obtained my bachelor's degrees in Applied Mathematics and Statistics from UC B
 
 My research mainly focuses on deep probablistic generative models and optimization. <br>
 <br>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=cfcc1a&w=70&t=n&d=ffZP6CS3p2vRaTDWgW38KUwD3M_vOJzp71Prq5nfOTg&co=2e95df"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=cfcc1a&w=200&t=n&d=ffZP6CS3p2vRaTDWgW38KUwD3M_vOJzp71Prq5nfOTg&co=2e95df"></script>
