@@ -12,7 +12,7 @@ I am a 4th-year Ph.D. student in [Computational and Applied Mathematics](https:/
 
 I obtained my bachelor's degrees in Applied Mathematics and Statistics from UC Berkeley in 2017. <br>
 
-My research mainly focuses on deep probablistic generative models and optimization. <br>
+My research mainly focuses on deep probablistic generative models (including [VAEs](https://arxiv.org/abs/1906.02691), [normalizing flows](https://arxiv.org/abs/1912.02762) and [Energy-based models](https://deepgenerativemodels.github.io/assets/slides/cs236_lecture11.pdf)) and optimization. <br>
 <br>
 > Creating noise from data is easy; creating data from noise is generative modeling. 
 > -[Song et al.](https://arxiv.org/abs/2011.13456)
