@@ -17,7 +17,8 @@ See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/1
 **Zhisheng Xiao**, Karsten Kreis, Jan Kautz, and Arash Vahdat<br>
 *International Conference on Learning Representations (ICLR)*, 2021 (Spotlight) <br>
 
-[**Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder**](https://arxiv.org/abs/2003.02977) [Code](https://github.com/XavierXiao/Likelihood-Regret)<br>
+[**Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder**](https://arxiv.org/abs/2003.02977) <br>
+[(Code)](https://github.com/XavierXiao/Likelihood-Regret)<br>
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2020 <br>
 *ICML Workshop on Uncertainty & Robustness in Deep Learning*, 2020 (Spotlight) <br>
