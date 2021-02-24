@@ -13,6 +13,9 @@ author_profile: true
 
 See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/117362006) profile page for more details. <br>
 
+[**EBMs Trained with Maximum Likelihood are Generator Models Trained with a Self-adverserial Loss**](https://arxiv.org/abs/2102.11757)<br>
+*Preprint*, 2021 <br>
+
 [**VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models**](https://arxiv.org/abs/2010.00654) <br>
 **Zhisheng Xiao**, Karsten Kreis, Jan Kautz, and Arash Vahdat<br>
 *International Conference on Learning Representations (ICLR)*, 2021 (Spotlight) <br>
