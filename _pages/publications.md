@@ -13,6 +13,10 @@ author_profile: true
 
 See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/117362006) profile page for more details. <br>
 
+[**Do We Really Need to Learn Representations from In-domain Data for Outlier Detection?**](https://arxiv.org/abs/2105.09270) <br>
+**Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
+*Preprint*, 2021 <br>
+
 [**EBMs Trained with Maximum Likelihood are Generator Models Trained with a Self-adverserial Loss**](https://arxiv.org/abs/2102.11757)<br>
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *[Energy Based Models Workshop - ICLR](https://sites.google.com/view/ebm-workshop-iclr2021)*, 2021 <br>
