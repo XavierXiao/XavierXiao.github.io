@@ -17,6 +17,10 @@ See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/1
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *Preprint*, 2021 <br>
 
+[**Understanding Limitation of Two Symmetrized Orders by Worst-case Complexity**](https://arxiv.org/abs/1910.04366) <br>
+Peijun Xiao, **Zhisheng Xiao**, and Ruoyu Sun <br>
+*SIAM Journal on Optimization*, 2021 <br>
+
 [**EBMs Trained with Maximum Likelihood are Generator Models Trained with a Self-adverserial Loss**](https://arxiv.org/abs/2102.11757)<br>
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *[Energy Based Models Workshop - ICLR](https://sites.google.com/view/ebm-workshop-iclr2021)*, 2021 <br>
@@ -47,9 +51,7 @@ Huajie Shao, **Zhisheng Xiao**, Shuochao Yao, Aston Zhang, Shengzhong Liu, and T
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *Preprint*, 2019 <br>
 
-[**Understanding Limitation of Two Symmetrized Orders by Worst-case Complexity**](https://arxiv.org/abs/1910.04366) <br>
-Peijun Xiao, **Zhisheng Xiao**, and Ruoyu Sun <br>
-*Preprint, in submission to SIAM Optimization*, 2019 <br>
+
 
 
 
