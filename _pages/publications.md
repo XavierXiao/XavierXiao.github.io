@@ -15,7 +15,7 @@ See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/1
 
 [**Do We Really Need to Learn Representations from In-domain Data for Outlier Detection?**](https://arxiv.org/abs/2105.09270) <br>
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
-*Preprint*, 2021 <br>
+*[ICML Workshop on Uncertainty & Robustness in Deep Learning](https://sites.google.com/view/udlworkshop2021/home)*, 2021 <br>
 
 [**Understanding Limitation of Two Symmetrized Orders by Worst-case Complexity**](https://arxiv.org/abs/1910.04366) <br>
 Peijun Xiao, **Zhisheng Xiao**, and Ruoyu Sun <br>
