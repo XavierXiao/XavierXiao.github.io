@@ -30,6 +30,7 @@ Huajie Shao, **Zhisheng Xiao**, Shuochao Yao, Aston Zhang, Shengzhong Liu, and T
 *[Energy Based Models Workshop - ICLR](https://sites.google.com/view/ebm-workshop-iclr2021)*, 2021 <br>
 
 [**VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models**](https://arxiv.org/abs/2010.00654) <br>
+[(Code)](https://github.com/NVlabs/VAEBM)<br>
 **Zhisheng Xiao**, Karsten Kreis, Jan Kautz, and Arash Vahdat<br>
 *International Conference on Learning Representations (ICLR)*, 2021 (Spotlight) <br>
 
