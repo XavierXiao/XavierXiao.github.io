@@ -17,7 +17,7 @@ See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/1
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *[ICML Workshop on Uncertainty & Robustness in Deep Learning](https://sites.google.com/view/udlworkshop2021/home)*, 2021 <br>
 
-[**Understanding Limitation of Two Symmetrized Orders by Worst-case Complexity**](https://arxiv.org/abs/1910.04366) <br>
+[**Two Symmetrized Coordinate Descent Methods Can Be $O(n^2)$ Times Slower Than the Randomized Version**](https://arxiv.org/abs/1910.04366) <br>
 Peijun Xiao, **Zhisheng Xiao**, and Ruoyu Sun <br>
 *SIAM Journal on Optimization*, 2021 <br>
 
