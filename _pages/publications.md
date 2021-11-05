@@ -19,7 +19,7 @@ Peijun Xiao, **Zhisheng Xiao**, and Ruoyu Sun <br>
 *SIAM Journal on Optimization*, 2021 <br>
 
 [**ControlVAE: Tuning, Analytical Properties, and Performance Analysis**](https://arxiv.org/abs/2011.01754) <br>
-Huajie Shao, **Zhisheng Xiao**, Shuochao Yao, Aston Zhang, Shengzhong Liu, and Tarek Abdelzaher<br>
+Huajie Shao*, **Zhisheng Xiao***, Shuochao Yao, Aston Zhang, Shengzhong Liu, and Tarek Abdelzaher<br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2021 <br>
 
 
