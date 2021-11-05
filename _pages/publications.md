@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %}
 
 See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/117362006) profile page for more details. <br>
-##Conference and Journal Papers## <br>
+## Conference and Journal Papers <br>
 
 [**Do We Really Need to Learn Representations from In-domain Data for Outlier Detection?**](https://arxiv.org/abs/2105.09270) <br>
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
