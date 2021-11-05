@@ -24,12 +24,12 @@ Huajie Shao, **Zhisheng Xiao**, Shuochao Yao, Aston Zhang, Shengzhong Liu, and T
 
 
 [**VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models**](https://arxiv.org/abs/2010.00654) <br>
-[(Code)](https://github.com/NVlabs/VAEBM)<br>
+[Code](https://github.com/NVlabs/VAEBM)<br>
 **Zhisheng Xiao**, Karsten Kreis, Jan Kautz, and Arash Vahdat<br>
 *International Conference on Learning Representations (ICLR)*, 2021 (Spotlight) <br>
 
 [**Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder**](https://arxiv.org/abs/2003.02977) <br>
-[(Code)](https://github.com/XavierXiao/Likelihood-Regret)<br>
+[Code](https://github.com/XavierXiao/Likelihood-Regret)<br>
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2020 <br>
 
