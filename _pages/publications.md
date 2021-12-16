@@ -13,6 +13,10 @@ author_profile: true
 
 See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/117362006) profile page for more details. <br>
 ## Conference and Journal Papers <br>
+[**Tackling the Generative Learning Trilemma with Denoising Diffusion GANs**](https://nvlabs.github.io/denoising-diffusion-gan/assets/paper.pdf) <br>
+[Project page](https://nvlabs.github.io/denoising-diffusion-gan/index.html)<br>
+**Zhisheng Xiao**, Karsten Kreis, and Arash Vahdat<br>
+*Preprint* <br>
 
 [**Two Symmetrized Coordinate Descent Methods Can Be O(n^2) Times Slower Than the Randomized Version**](https://arxiv.org/abs/1910.04366) <br>
 Peijun Xiao, **Zhisheng Xiao**, and Ruoyu Sun <br>
