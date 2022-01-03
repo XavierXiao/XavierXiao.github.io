@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. student in [Computational and Applied Mathematics](https://cam.uchicago.edu) at University of Chicago. I am doing my Ph.D. studies under Prof. [Yali Amit](https://galton.uchicago.edu/~amit/). During two summer internships at [NVIDIA](https://www.nvidia.com/en-us/research/), I worked with [Arash Vahdat](http://latentspace.cc/arash_vahdat/) and [Karsten Kreis](https://scholar.google.de/citations?user=rFd-DiAAAAAJ&hl). <br>
+I am a final year Ph.D. student in [Computational and Applied Mathematics](https://cam.uchicago.edu) at University of Chicago. I am doing my Ph.D. studies under Prof. [Yali Amit](https://galton.uchicago.edu/~amit/). During two summer internships at [NVIDIA](https://www.nvidia.com/en-us/research/), I worked with [Arash Vahdat](http://latentspace.cc/arash_vahdat/) and [Karsten Kreis](https://karstenkreis.github.io/). <br>
 
 Previously, I obtained my bachelor's degrees in Applied Mathematics and Statistics from UC Berkeley in 2017. <br>
 
