@@ -59,6 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
+linkedin: 
   username               :
   app_id                 :
   publisher              :
@@ -102,7 +103,7 @@ author:
   instagram        : "xavier.x"
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   #lastfm           :
-  #linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zhisheng-xiao-2b9356130/"
   #orcid            : "http://orcid.org/yourorcidurl"
   #pinterest        :
   soundcloud       :
