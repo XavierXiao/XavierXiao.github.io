@@ -47,7 +47,7 @@ Huajie Shao*, **Zhisheng Xiao***, Shuochao Yao, Aston Zhang, Shengzhong Liu, and
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *[Energy Based Models Workshop - ICLR](https://sites.google.com/view/ebm-workshop-iclr2021)*, 2021 <br>
 
-[**Improving Sample Quality by Training and Sampling from Latent Energy**](https://invertibleworkshop.github.io/accepted_papers/pdfs/4.pdf) <br>
+[**Improving Sample Quality by Training and Sampling from Latent Energy**](https://arxiv.org/abs/2006.08100) <br>
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *[ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models](https://invertibleworkshop.github.io/)*, 2020 <br>
 
