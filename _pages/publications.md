@@ -18,7 +18,7 @@ See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/1
 **Zhisheng Xiao**, Karsten Kreis, and Arash Vahdat<br>
 *International Conference on Learning Representations (ICLR)*, 2022 (Spotlight) <br>
 
-[**Two Symmetrized Coordinate Descent Methods Can Be O(n^2) Times Slower Than the Randomized Version**](https://arxiv.org/abs/1910.04366) <br>
+[**Two Symmetrized Coordinate Descent Methods Can Be O(n^2) Times Slower Than the Randomized Version**](https://epubs.siam.org/doi/abs/10.1137/19M1292473) <br>
 Peijun Xiao, **Zhisheng Xiao**, and Ruoyu Sun <br>
 *SIAM Journal on Optimization*, 2021 <br>
 
