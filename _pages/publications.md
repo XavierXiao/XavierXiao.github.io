@@ -22,7 +22,7 @@ See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/1
 Peijun Xiao, **Zhisheng Xiao**, and Ruoyu Sun <br>
 *SIAM Journal on Optimization*, 2021 <br>
 
-[**ControlVAE: Tuning, Analytical Properties, and Performance Analysis**](https://arxiv.org/abs/2011.01754) <br>
+[**ControlVAE: Tuning, Analytical Properties, and Performance Analysis**](https://ieeexplore.ieee.org/abstract/document/9618835) <br>
 Huajie Shao*, **Zhisheng Xiao***, Shuochao Yao, Aston Zhang, Shengzhong Liu, and Tarek Abdelzaher<br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2021 <br>
 
