@@ -14,7 +14,7 @@ author_profile: true
 See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/117362006) profile page for more details. <br>
 ## Conference and Journal Papers <br>
 [**Tackling the Generative Learning Trilemma with Denoising Diffusion GANs**](https://arxiv.org/abs/2112.07804) <br>
-[Project page](https://nvlabs.github.io/denoising-diffusion-gan/index.html)<br>
+[Codes](https://github.com/XavierXiao/denoising-diffusion-gan) [Project page](https://nvlabs.github.io/denoising-diffusion-gan/index.html)<br>
 **Zhisheng Xiao**, Karsten Kreis, and Arash Vahdat<br>
 *International Conference on Learning Representations (ICLR)*, 2022 (Spotlight) <br>
 
