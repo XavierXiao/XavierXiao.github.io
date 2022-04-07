@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Link to my [CV](https://xavierxiao.github.io/files/CV_full.pdf).
+Link to my [CV](https://xavierxiao.github.io/files/cv_zhisheng.pdf).
