@@ -13,7 +13,7 @@ author_profile: true
 
 See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/117362006) profile page for more details. <br>
 ## Under Submission
-[**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Mode**](https://xavierxiao.github.io/files/multi_stage_nce_paper_copy.pdf) <br>
+[**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model**](https://xavierxiao.github.io/files/multi_stage_nce_paper_copy.pdf) <br>
 **Zhisheng Xiao**, Tian Han <br>
 *Preprint*, 2022 <br>
 
