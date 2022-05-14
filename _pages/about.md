@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I recently defensed my thesis with title *Designing Deep Generative Models with Symbiotic Composition*. Here is a [copy](https://xavierxiao.github.io/files/thesis_final-compressed.pdf) of my thesis. I will join [AWS AI](https://aws.amazon.com/ai/) as an Applied Scientist after graduation.<br>
+I recently defensed my thesis with title *Designing Deep Generative Models with Symbiotic Composition*. Here is a [copy](https://xavierxiao.github.io/files/thesis_final-compressed.pdf) of my thesis. I will join [AWS AI](https://aws.amazon.com/ai/) as an Applied Scientist starting 07/2022.<br>
 
 Currently I am a final year Ph.D. student in [Computational and Applied Mathematics](https://cam.uchicago.edu) at University of Chicago. I am doing my Ph.D. studies under Prof. [Yali Amit](https://galton.uchicago.edu/~amit/). During two summer internships at [NVIDIA](https://www.nvidia.com/en-us/research/), I worked with [Arash Vahdat](http://latentspace.cc/arash_vahdat/) and [Karsten Kreis](https://karstenkreis.github.io/). <br>
 
