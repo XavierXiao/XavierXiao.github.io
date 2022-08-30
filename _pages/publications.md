@@ -12,6 +12,10 @@ author_profile: true
 {% endfor %}
 
 See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/117362006) profile page for more details. <br>
+## Thesis
+[**Designing Deep Generative Models with Symbiotic Composition**](https://www.proquest.com/docview/2685089373/80A94B2C787149FFPQ/9?accountid=14657) <br>
+**Zhisheng Xiao** <br>
+
 ## Under Submission
 [**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model**](https://xavierxiao.github.io/files/multi_stage_nce_paper_copy.pdf) <br>
 **Zhisheng Xiao**, Tian Han <br>
