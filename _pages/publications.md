@@ -16,12 +16,12 @@ See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/1
 [**Designing Deep Generative Models with Symbiotic Composition**](https://xavierxiao.github.io/files/thesis_final-compressed.pdf) <br>
 **Zhisheng Xiao** <br>
 
-## Under Submission
-[**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model**](https://xavierxiao.github.io/files/multi_stage_nce_paper_copy.pdf) <br>
-**Zhisheng Xiao**, Tian Han <br>
-*Preprint*, 2022 <br>
 
 ## Conference and Journal Papers <br>
+[**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model**](https://xavierxiao.github.io/files/multi_stage_nce_paper_copy.pdf) <br>
+**Zhisheng Xiao**, Tian Han <br>
+*Conference on Neural Information Processing Systems (NeurIPS)*, 2022 <br>
+
 [**Tackling the Generative Learning Trilemma with Denoising Diffusion GANs**](https://arxiv.org/abs/2112.07804) <br>
 [Codes](https://github.com/NVlabs/denoising-diffusion-gan) [Project page](https://nvlabs.github.io/denoising-diffusion-gan/index.html)<br>
 **Zhisheng Xiao**, Karsten Kreis, and Arash Vahdat<br>
