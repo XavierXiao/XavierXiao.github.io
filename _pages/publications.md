@@ -13,7 +13,7 @@ author_profile: true
 
 See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/117362006) profile page for more details. <br>
 ## Thesis
-[**Designing Deep Generative Models with Symbiotic Composition**](https://xavierxiao.github.io/files/thesis_final-compressed.pdf) <br>
+[**Designing Deep Generative Models with Symbiotic Composition**](https://knowledge.uchicago.edu/record/3954) <br>
 **Zhisheng Xiao** <br>
 
 
