@@ -20,7 +20,7 @@ See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/1
 ## Conference and Journal Papers <br>
 [**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model**](https://arxiv.org/abs/2209.08739) <br>
 **Zhisheng Xiao**, Tian Han <br>
-*Conference on Neural Information Processing Systems (NeurIPS)*, 2022 <br>
+*Conference on Neural Information Processing Systems (NeurIPS)*, 2022 (Oral) <br>
 
 [**Tackling the Generative Learning Trilemma with Denoising Diffusion GANs**](https://arxiv.org/abs/2112.07804) <br>
 [Codes](https://github.com/NVlabs/denoising-diffusion-gan) [Project page](https://nvlabs.github.io/denoising-diffusion-gan/index.html)<br>
