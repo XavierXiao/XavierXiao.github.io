@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I currently work at Google on improving the efficiency of large-scale text-to-image diffusion models, such as [Imagen 2](https://deepmind.google/technologies/imagen-2/).
+I currently work at Google, mainly focusing on improving the efficiency of large-scale text-to-image diffusion models, such as [Imagen 2](https://deepmind.google/technologies/imagen-2/).
 
 Previously I was an Applied Scientist at [AWS AI](https://aws.amazon.com/ai/). At AWS, I was working on training large diffusion-based generative models, which finally turned into [Titan Image Generator](https://aws.amazon.com/bedrock/titan/).
 
