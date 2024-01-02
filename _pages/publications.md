@@ -12,10 +12,12 @@ author_profile: true
 {% endfor %}
 
 See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/117362006) profile page for more details. <br>
-## Thesis
-[**Designing Deep Generative Models with Symbiotic Composition**](https://knowledge.uchicago.edu/record/3954) <br>
-**Zhisheng Xiao** <br>
+## Preprints
+[**Ufogen: You Forward Once Large Scale Text-to-image Generation via Diffusion Gans**](https://arxiv.org/abs/2311.09257) <br>
+Yanwu Xu, Yang Zhao, **Zhisheng Xiao**, Tingbo Hou <br>
 
+[**MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices**](https://arxiv.org/abs/2311.16567) <br>
+Yang Zhao, Yanwu Xu, **Zhisheng Xiao**, Tingbo Hou <br>
 
 ## Conference and Journal Papers <br>
 [**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model**](https://arxiv.org/abs/2209.08739) <br>
@@ -73,6 +75,10 @@ Huajie Shao*, **Zhisheng Xiao***, Shuochao Yao, Aston Zhang, Shengzhong Liu, and
 [**Generative Latent Flow**](https://arxiv.org/abs/1905.10485) <br>
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *Preprint*, 2019 <br>
+
+## Thesis
+[**Designing Deep Generative Models with Symbiotic Composition**](https://knowledge.uchicago.edu/record/3954) <br>
+**Zhisheng Xiao** <br>
 
 
 
