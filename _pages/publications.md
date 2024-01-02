@@ -19,6 +19,12 @@ Yanwu Xu, Yang Zhao, **Zhisheng Xiao**, Tingbo Hou <br>
 [**MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices**](https://arxiv.org/abs/2311.16567) <br>
 Yang Zhao, Yanwu Xu, **Zhisheng Xiao**, Tingbo Hou <br>
 
+[**DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models**](https://arxiv.org/abs/2312.03771) <br>
+Shaoan Xie, Yang Zhao, **Zhisheng Xiao**, Kelvin C.K. Chan, Yandong Li, Yanwu Xu, Kun Zhang, Tingbo Hou <br>
+
+[**HiFi Tuner: High-Fidelity Subject-Driven Fine-Tuning for Diffusion Models**](https://arxiv.org/abs/2312.00079) <br>
+Zhonghao Wang, Wei Wei, Yang Zhao, **Zhisheng Xiao**, Mark Hasegawa-Johnson, Humphrey Shi, Tingbo Hou <br>
+
 ## Conference and Journal Papers <br>
 [**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model**](https://arxiv.org/abs/2209.08739) <br>
 **Zhisheng Xiao**, Tian Han <br>
