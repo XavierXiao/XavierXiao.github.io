@@ -13,8 +13,6 @@ author_profile: true
 
 See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/117362006) profile page for more details. <br>
 ## Preprints
-[**Ufogen: You Forward Once Large Scale Text-to-image Generation via Diffusion Gans**](https://arxiv.org/abs/2311.09257) <br>
-Yanwu Xu, Yang Zhao, **Zhisheng Xiao**, Tingbo Hou <br>
 
 [**MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices**](https://arxiv.org/abs/2311.16567) <br>
 Yang Zhao, Yanwu Xu, **Zhisheng Xiao**, Tingbo Hou <br>
@@ -26,6 +24,10 @@ Shaoan Xie, Yang Zhao, **Zhisheng Xiao**, Kelvin C.K. Chan, Yandong Li, Yanwu Xu
 Zhonghao Wang, Wei Wei, Yang Zhao, **Zhisheng Xiao**, Mark Hasegawa-Johnson, Humphrey Shi, Tingbo Hou <br>
 
 ## Conference and Journal Papers <br>
+[**Ufogen: You Forward Once Large Scale Text-to-image Generation via Diffusion Gans**](https://arxiv.org/abs/2311.09257) <br>
+Yanwu Xu, Yang Zhao, **Zhisheng Xiao**, Tingbo Hou <br>
+* IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2024 (Hilight) <br>
+
 [**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model**](https://arxiv.org/abs/2209.08739) <br>
 **Zhisheng Xiao**, Tian Han <br>
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2022 (Oral) <br>
