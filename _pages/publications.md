@@ -26,7 +26,7 @@ Zhonghao Wang, Wei Wei, Yang Zhao, **Zhisheng Xiao**, Mark Hasegawa-Johnson, Hum
 ## Conference and Journal Papers <br>
 [**Ufogen: You Forward Once Large Scale Text-to-image Generation via Diffusion Gans**](https://arxiv.org/abs/2311.09257) <br>
 Yanwu Xu, Yang Zhao, **Zhisheng Xiao**, Tingbo Hou <br>
-* IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2024 (Hilight) <br>
+*IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2024 (Hilight) <br>
 
 [**Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model**](https://arxiv.org/abs/2209.08739) <br>
 **Zhisheng Xiao**, Tian Han <br>
