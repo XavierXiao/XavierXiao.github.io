@@ -14,6 +14,9 @@ author_profile: true
 See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/117362006) profile page for more details. <br>
 ## Preprints
 
+[**EM Distillation for One-step Diffusion Models**](https://arxiv.org/abs/2405.16852) <br>
+Sirui Xie, **Zhisheng Xiao**, Diederik P Kingma, Tingbo Hou, Ying Nian Wu, Kevin Patrick Murphy, Tim Salimans, Ben Poole, Ruiqi Gao <br>
+
 [**MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices**](https://arxiv.org/abs/2311.16567) <br>
 Yang Zhao, Yanwu Xu, **Zhisheng Xiao**, Tingbo Hou <br>
 
