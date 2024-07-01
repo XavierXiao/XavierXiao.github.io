@@ -24,7 +24,7 @@ Shaoan Xie, Yang Zhao, **Zhisheng Xiao**, Kelvin C.K. Chan, Yandong Li, Yanwu Xu
 Zhonghao Wang, Wei Wei, Yang Zhao, **Zhisheng Xiao**, Mark Hasegawa-Johnson, Humphrey Shi, Tingbo Hou <br>
 
 ## Conference and Journal Papers <br>
-**[MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices**](https://arxiv.org/abs/2311.16567) <br>
+[**MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices**](https://arxiv.org/abs/2311.16567) <br>
 Yang Zhao, Yanwu Xu, **Zhisheng Xiao**, Tingbo Hou <br>
 *European Conference on Computer Vision (ECCV), 2024*
 
