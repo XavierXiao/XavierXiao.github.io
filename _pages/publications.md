@@ -17,9 +17,6 @@ See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/1
 [**EM Distillation for One-step Diffusion Models**](https://arxiv.org/abs/2405.16852) <br>
 Sirui Xie, **Zhisheng Xiao**, Diederik P Kingma, Tingbo Hou, Ying Nian Wu, Kevin Patrick Murphy, Tim Salimans, Ben Poole, Ruiqi Gao <br>
 
-[**MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices**](https://arxiv.org/abs/2311.16567) <br>
-Yang Zhao, Yanwu Xu, **Zhisheng Xiao**, Tingbo Hou <br>
-
 [**DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models**](https://arxiv.org/abs/2312.03771) <br>
 Shaoan Xie, Yang Zhao, **Zhisheng Xiao**, Kelvin C.K. Chan, Yandong Li, Yanwu Xu, Kun Zhang, Tingbo Hou <br>
 
@@ -27,6 +24,10 @@ Shaoan Xie, Yang Zhao, **Zhisheng Xiao**, Kelvin C.K. Chan, Yandong Li, Yanwu Xu
 Zhonghao Wang, Wei Wei, Yang Zhao, **Zhisheng Xiao**, Mark Hasegawa-Johnson, Humphrey Shi, Tingbo Hou <br>
 
 ## Conference and Journal Papers <br>
+**MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices**](https://arxiv.org/abs/2311.16567) <br>
+Yang Zhao, Yanwu Xu, **Zhisheng Xiao**, Tingbo Hou <br>
+*European Conference on Computer Vision (ECCV), 2024*
+
 [**Ufogen: You Forward Once Large Scale Text-to-image Generation via Diffusion Gans**](https://arxiv.org/abs/2311.09257) <br>
 Yanwu Xu, Yang Zhao, **Zhisheng Xiao**, Tingbo Hou <br>
 *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2024 (Highlight) <br>
