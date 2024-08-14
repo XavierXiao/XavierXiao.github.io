@@ -12,6 +12,10 @@ author_profile: true
 {% endfor %}
 
 See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/117362006) profile page for more details. <br>
+## Reports
+[**Imagen 3**](https://arxiv.org/abs/2408.07009) <br>
+Imagen Team
+
 ## Preprints
 
 [**EM Distillation for One-step Diffusion Models**](https://arxiv.org/abs/2405.16852) <br>
