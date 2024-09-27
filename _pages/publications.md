@@ -16,18 +16,11 @@ See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/1
 [**Imagen 3**](https://arxiv.org/abs/2408.07009) <br>
 Imagen Team
 
-## Preprints
-
+## Conference and Journal Papers <br>
 [**EM Distillation for One-step Diffusion Models**](https://arxiv.org/abs/2405.16852) <br>
 Sirui Xie, **Zhisheng Xiao**, Diederik P Kingma, Tingbo Hou, Ying Nian Wu, Kevin Patrick Murphy, Tim Salimans, Ben Poole, Ruiqi Gao <br>
+*Conference on Neural Information Processing Systems (NeurIPS)*, 2024<br>
 
-[**DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models**](https://arxiv.org/abs/2312.03771) <br>
-Shaoan Xie, Yang Zhao, **Zhisheng Xiao**, Kelvin C.K. Chan, Yandong Li, Yanwu Xu, Kun Zhang, Tingbo Hou <br>
-
-[**HiFi Tuner: High-Fidelity Subject-Driven Fine-Tuning for Diffusion Models**](https://arxiv.org/abs/2312.00079) <br>
-Zhonghao Wang, Wei Wei, Yang Zhao, **Zhisheng Xiao**, Mark Hasegawa-Johnson, Humphrey Shi, Tingbo Hou <br>
-
-## Conference and Journal Papers <br>
 [**MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices**](https://arxiv.org/abs/2311.16567) <br>
 Yang Zhao, Yanwu Xu, **Zhisheng Xiao**, Tingbo Hou <br>
 *European Conference on Computer Vision (ECCV), 2024*
@@ -82,8 +75,14 @@ Huajie Shao*, **Zhisheng Xiao***, Shuochao Yao, Aston Zhang, Shengzhong Liu, and
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *[ICML Workshop on Uncertainty & Robustness in Deep Learning](https://sites.google.com/view/udlworkshop2020/home?authuser=0)*, 2020 (Spotlight) <br>
 
+## Preprints
 
-## Technical Reports <br>
+[**DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models**](https://arxiv.org/abs/2312.03771) <br>
+Shaoan Xie, Yang Zhao, **Zhisheng Xiao**, Kelvin C.K. Chan, Yandong Li, Yanwu Xu, Kun Zhang, Tingbo Hou <br>
+
+[**HiFi Tuner: High-Fidelity Subject-Driven Fine-Tuning for Diffusion Models**](https://arxiv.org/abs/2312.00079) <br>
+Zhonghao Wang, Wei Wei, Yang Zhao, **Zhisheng Xiao**, Mark Hasegawa-Johnson, Humphrey Shi, Tingbo Hou <br>
+
 [**A Method to Model Conditional Distributions with Normalizing Flows**](https://arxiv.org/abs/1911.02052) <br>
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
 *Preprint*, 2019 <br>
