@@ -85,11 +85,9 @@ Zhonghao Wang, Wei Wei, Yang Zhao, **Zhisheng Xiao**, Mark Hasegawa-Johnson, Hum
 
 [**A Method to Model Conditional Distributions with Normalizing Flows**](https://arxiv.org/abs/1911.02052) <br>
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
-*Preprint*, 2019 <br>
 
 [**Generative Latent Flow**](https://arxiv.org/abs/1905.10485) <br>
 **Zhisheng Xiao**, Qing Yan, and Yali Amit <br>
-*Preprint*, 2019 <br>
 
 ## Thesis
 [**Designing Deep Generative Models with Symbiotic Composition**](https://knowledge.uchicago.edu/record/3954) <br>
