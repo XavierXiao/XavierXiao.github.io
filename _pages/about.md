@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I currently work at Google Deepmind, mainly focusing on improving the efficiency of diffusion models, such as [Imagen 4](https://deepmind.google/models/imagen/) and [Veo 3](https://deepmind.google/models/veo/).
+I currently work at Google Deepmind, mainly focusing on improving the efficiency of diffusion models, such as [Imagen 4](https://deepmind.google/models/imagen/), [Veo 3](https://deepmind.google/models/veo/) and [Gemini's native image generation](https://developers.googleblog.com/en/experiment-with-gemini-20-flash-native-image-generation/).
 
 Previously I was an Applied Scientist at AWS AI. At AWS, I worked on training large diffusion-based generative models, which finally turned into [Titan Image Generator](https://aws.amazon.com/bedrock/titan/).
 
