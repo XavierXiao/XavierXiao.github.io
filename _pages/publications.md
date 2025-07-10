@@ -14,6 +14,7 @@ author_profile: true
 See my [semantic scholar](https://www.semanticscholar.org/author/Zhisheng-Xiao/117362006) profile page for more details. <br>
 ## Reports
 [**Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.**](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) <br>
+Gemini Team, Google <br>
 [**Imagen 3**](https://arxiv.org/abs/2408.07009) <br>
 Imagen Team
 
